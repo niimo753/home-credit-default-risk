@@ -1,6 +1,7 @@
 (Final Project of Data Preparation and Visualization module)
 # Home Credit Default Risk (Compact Version)
 In the banking and financial industry, credit risk modeling is one of the most important tasks. Instead of using complex models, data scientists must utilize the basic model because of its explainability. Therefore, within the context of this assignment, the preprocessing steps need to be carefully taken to improve the performance of the default Logistic Regression model with the given dataset.
+
 *Submissions are evaluated on GINI. Gini can be calculated via the AUC in the formula: GINI = 2 x AUC - 1*
 
 # Dataset
